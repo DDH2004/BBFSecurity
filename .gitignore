@@ -1,0 +1,4 @@
+backend/requirements.txt
+backend/.env
+backend/.env.example
+backend/venv
