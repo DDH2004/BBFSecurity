@@ -1,4 +1,8 @@
-backend/requirements.txt
-backend/.env
-backend/.env.example
-backend/venv
+venv
+app/api/routes/__pycache__
+app/api/__pycache__
+app/__pycache__
+app/__init__.py
+app/schemas/__pycache__
+app/services/__pycache__
+.env

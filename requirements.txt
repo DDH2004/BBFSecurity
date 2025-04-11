@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+python-dotenv
+auth0-python
+httpx
+pydantic
+sqlalchemy
+databases
+# midnight-sdk - install from correct source
+# gemini-sdk
+pytest
+pytest-asyncio
+httpx-mock
+google-generativeai
+uvicorn
