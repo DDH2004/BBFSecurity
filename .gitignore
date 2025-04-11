@@ -6,3 +6,5 @@ app/__init__.py
 app/schemas/__pycache__
 app/services/__pycache__
 .env
+*/__init__
+*/__pycache__
