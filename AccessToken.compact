@@ -1,0 +1,28 @@
+pragma language_version >= 0.14.0;
+import CompactStandardLibrary;
+
+export ledger admin_pk: Bytes<32>;
+
+constructor(admin: Bytes<32>) {
+  admin_pk = admin;
+}
+
+export circuit mint_access(recipient: Bytes<32>): [] {
+  // Verify that the caller is the administrator by comparing their public key to admin_pk.
+  assert(own_public_key().bytes == admin_pk)
+      "Unauthorized mint attempt";
+  
+  // Compute the token type by combining a padded domain separator with the contract’s own address.
+  mint_token(
+    token_type(pad(32, "midnight-mongo-access"), kernel.self()),
+    1,
+    evolve_nonce(0, default<Bytes<32>>),
+    left<ZswapCoinPublicKey, ContractAddress>(ZswapCoinPublicKey { bytes: recipient })
+  );
+}
+
+export circuit on_transfer(token: Bytes<32>): [] {
+  // Transfers are disallowed.
+  assert(false)
+      "Transfers disallowed for access token";
+}
