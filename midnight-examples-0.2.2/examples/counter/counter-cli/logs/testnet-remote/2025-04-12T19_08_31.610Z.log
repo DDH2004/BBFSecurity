@@ -1,0 +1,17 @@
+{"level":30,"time":1744484911729,"pid":42762,"hostname":"MacBook-Pro-157.local","msg":"File path for save file not found, building wallet from scratch"}
+{"level":30,"time":1744484911906,"pid":42762,"hostname":"MacBook-Pro-157.local","msg":"Your wallet seed is: 22c182383f2e79a055a0ea6ece378d16d9b9cc5f53855688f06e43d3e74e1777"}
+{"level":30,"time":1744484911907,"pid":42762,"hostname":"MacBook-Pro-157.local","msg":"Your wallet address is: mn_shield-addr_test15zyt2zwf8w78fsms3g37p0pya2a0l3xevguvturqkv7njdamwavqxqps0tx6flqfsj9ckrcqsd3tsy398e0mk3g4r8q573alqcvwpwmccp3qnekwm9vf3gk6ft3302k7zscd7slefakaddyf4e8aee"}
+{"level":30,"time":1744484911907,"pid":42762,"hostname":"MacBook-Pro-157.local","msg":"Your wallet balance is: 0"}
+{"level":30,"time":1744484911907,"pid":42762,"hostname":"MacBook-Pro-157.local","msg":"Waiting to receive tokens..."}
+{"level":30,"time":1744484911927,"pid":42762,"hostname":"MacBook-Pro-157.local","msg":"Wallet processed 0 indices out of unknown number, transactions=0"}
+{"level":30,"time":1744484922722,"pid":42762,"hostname":"MacBook-Pro-157.local","msg":"Wallet processed 1799 indices out of 16319, transactions=0"}
+{"level":30,"time":1744484932829,"pid":42762,"hostname":"MacBook-Pro-157.local","msg":"Wallet processed 3799 indices out of 16319, transactions=0"}
+{"level":30,"time":1744484942894,"pid":42762,"hostname":"MacBook-Pro-157.local","msg":"Wallet processed 5799 indices out of 16319, transactions=0"}
+{"level":30,"time":1744484953116,"pid":42762,"hostname":"MacBook-Pro-157.local","msg":"Wallet processed 7799 indices out of 16319, transactions=0"}
+{"level":30,"time":1744484963486,"pid":42762,"hostname":"MacBook-Pro-157.local","msg":"Wallet processed 8599 indices out of 16321, transactions=0"}
+{"level":30,"time":1744484975824,"pid":42762,"hostname":"MacBook-Pro-157.local","msg":"Wallet processed 9199 indices out of 16323, transactions=0"}
+{"level":30,"time":1744484986127,"pid":42762,"hostname":"MacBook-Pro-157.local","msg":"Wallet processed 11199 indices out of 16323, transactions=0"}
+{"level":30,"time":1744484997123,"pid":42762,"hostname":"MacBook-Pro-157.local","msg":"Wallet processed 13399 indices out of 16323, transactions=0"}
+{"level":30,"time":1744485009000,"pid":42762,"hostname":"MacBook-Pro-157.local","msg":"Wallet processed 14799 indices out of 16323, transactions=4"}
+{"level":30,"time":1744485023073,"pid":42762,"hostname":"MacBook-Pro-157.local","msg":"Wallet processed 16323 indices out of 16323, transactions=10"}
+{"level":30,"time":1744485023079,"pid":42762,"hostname":"MacBook-Pro-157.local","msg":"Your wallet balance is: 34343636"}

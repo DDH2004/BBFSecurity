@@ -1,0 +1,29 @@
+{"level":30,"time":1744481323087,"pid":32947,"hostname":"MacBook-Pro-157.local","msg":"File path for save file not found, building wallet from scratch"}
+{"level":30,"time":1744481323282,"pid":32947,"hostname":"MacBook-Pro-157.local","msg":"Your wallet seed is: 22c182383f2e79a055a0ea6ece378d16d9b9cc5f53855688f06e43d3e74e1777"}
+{"level":30,"time":1744481323283,"pid":32947,"hostname":"MacBook-Pro-157.local","msg":"Your wallet address is: mn_shield-addr_test15zyt2zwf8w78fsms3g37p0pya2a0l3xevguvturqkv7njdamwavqxqps0tx6flqfsj9ckrcqsd3tsy398e0mk3g4r8q573alqcvwpwmccp3qnekwm9vf3gk6ft3302k7zscd7slefakaddyf4e8aee"}
+{"level":30,"time":1744481323283,"pid":32947,"hostname":"MacBook-Pro-157.local","msg":"Your wallet balance is: 0"}
+{"level":30,"time":1744481323284,"pid":32947,"hostname":"MacBook-Pro-157.local","msg":"Waiting to receive tokens..."}
+{"level":30,"time":1744481323296,"pid":32947,"hostname":"MacBook-Pro-157.local","msg":"Wallet processed 0 indices out of unknown number, transactions=0"}
+{"level":30,"time":1744481334876,"pid":32947,"hostname":"MacBook-Pro-157.local","msg":"Wallet processed 399 indices out of 16150, transactions=0"}
+{"level":30,"time":1744481344895,"pid":32947,"hostname":"MacBook-Pro-157.local","msg":"Wallet processed 799 indices out of 16150, transactions=0"}
+{"level":30,"time":1744481356221,"pid":32947,"hostname":"MacBook-Pro-157.local","msg":"Wallet processed 2399 indices out of 16150, transactions=0"}
+{"level":30,"time":1744481368245,"pid":32947,"hostname":"MacBook-Pro-157.local","msg":"Wallet processed 3999 indices out of 16150, transactions=0"}
+{"level":30,"time":1744481380306,"pid":32947,"hostname":"MacBook-Pro-157.local","msg":"Wallet processed 4599 indices out of 16152, transactions=0"}
+{"level":30,"time":1744481392278,"pid":32947,"hostname":"MacBook-Pro-157.local","msg":"Wallet processed 4799 indices out of 16154, transactions=0"}
+{"level":30,"time":1744481402402,"pid":32947,"hostname":"MacBook-Pro-157.local","msg":"Wallet processed 6199 indices out of 16154, transactions=0"}
+{"level":30,"time":1744481413872,"pid":32947,"hostname":"MacBook-Pro-157.local","msg":"Wallet processed 7799 indices out of 16154, transactions=0"}
+{"level":30,"time":1744481424917,"pid":32947,"hostname":"MacBook-Pro-157.local","msg":"Wallet processed 8799 indices out of 16156, transactions=0"}
+{"level":30,"time":1744481435450,"pid":32947,"hostname":"MacBook-Pro-157.local","msg":"Wallet processed 9399 indices out of 16156, transactions=0"}
+{"level":30,"time":1744481446938,"pid":32947,"hostname":"MacBook-Pro-157.local","msg":"Wallet processed 10999 indices out of 16156, transactions=0"}
+{"level":30,"time":1744481458331,"pid":32947,"hostname":"MacBook-Pro-157.local","msg":"Wallet processed 12599 indices out of 16156, transactions=0"}
+{"level":30,"time":1744481469815,"pid":32947,"hostname":"MacBook-Pro-157.local","msg":"Wallet processed 14199 indices out of 16156, transactions=0"}
+{"level":30,"time":1744481481293,"pid":32947,"hostname":"MacBook-Pro-157.local","msg":"Wallet processed 14999 indices out of 16156, transactions=4"}
+{"level":30,"time":1744481494999,"pid":32947,"hostname":"MacBook-Pro-157.local","msg":"Wallet processed 16156 indices out of 16156, transactions=4"}
+{"level":30,"time":1744481495009,"pid":32947,"hostname":"MacBook-Pro-157.local","msg":"Your wallet balance is: 9402056"}
+{"level":30,"time":1744481668502,"pid":32947,"hostname":"MacBook-Pro-157.local","msg":"Joined contract at address: 020044c4088f5de99dc9267a0ce100748120592c8badc7dbee728de1a4cd1e5e9ee8"}
+{"level":30,"time":1744481675376,"pid":32947,"hostname":"MacBook-Pro-157.local","msg":"Incrementing..."}
+{"level":30,"time":1744481741490,"pid":32947,"hostname":"MacBook-Pro-157.local","msg":"Transaction 00000000c8c3053d8f2c8a24ccb387698aff892424433ff117101ed784f30153c825d2bfe59b98ef4e8e6b94fe4594a85de7937db5ea963a1172bd90 added in block 1111282"}
+{"level":30,"time":1744481879101,"pid":32947,"hostname":"MacBook-Pro-157.local","msg":"Checking contract ledger state..."}
+{"level":30,"time":1744481879769,"pid":32947,"hostname":"MacBook-Pro-157.local","msg":"Ledger state: 2"}
+{"level":30,"time":1744481879769,"pid":32947,"hostname":"MacBook-Pro-157.local","msg":"Current counter value: 2"}
+{"level":30,"time":1744481893545,"pid":32947,"hostname":"MacBook-Pro-157.local","msg":"Exiting..."}
